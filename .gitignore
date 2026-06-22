@@ -25,7 +25,6 @@ uv.lock
 
 *.egg-info/
 
-/.vscode
 /*.session.sql
 
 .mypy_cache
@@ -44,3 +43,5 @@ examples/**/uv.lock
 
 # Claude Code local state
 .claude/*.lock
+config.bat
+node_modules
